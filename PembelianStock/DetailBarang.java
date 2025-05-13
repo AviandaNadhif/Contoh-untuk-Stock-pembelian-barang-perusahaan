@@ -1,4 +1,4 @@
-package TugasPTSRevisi;
+package PembelianStock;
 // Inheritance: DetailBarang mewarisi Barang
 public class DetailBarang extends Barang {
     static int jumlah;
