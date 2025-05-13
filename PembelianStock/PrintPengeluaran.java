@@ -1,4 +1,4 @@
-package TugasPTSRevisi;
+package PembelianStock;
 // Buat Ngeprint Kodingan
 public class PrintPengeluaran {
     public static void main(String[] args) {
