@@ -1,4 +1,4 @@
-package TugasPTSRevisi;
+package PembelianStock;
 
 import java.util.Scanner;
 
