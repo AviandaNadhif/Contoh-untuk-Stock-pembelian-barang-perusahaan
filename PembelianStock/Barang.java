@@ -1,4 +1,4 @@
-package TugasPTSRevisi;
+package PembelianStock;
 
 public class Barang {
     // Enkapsulasi (pakai static + private/protected bisa lebih kuat)
